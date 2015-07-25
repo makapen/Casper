@@ -544,7 +544,7 @@ body.nav-opened .nav-cover {
     z-index: 5;
     width: 240px;
     opacity: 0;
-    background: #111;
+    background: #3399cc;
     margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
@@ -602,7 +602,7 @@ body.nav-opened .nav {
     top: 0;
     width: 20px;
     height: 1px;
-    background: rgb(150,150,150);
+    background: #fff !important;
     top: 15px;
     -webkit-transition: background 0.15s ease;
             transition: background 0.15s ease;
