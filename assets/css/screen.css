@@ -1486,6 +1486,10 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.75em;
 }
 
+.disqus-block {
+  width: 80%;
+  margin: 0 auto;
+}
 
 /* ==========================================================================
    9. Pagination - Tools to let you flick between pages
